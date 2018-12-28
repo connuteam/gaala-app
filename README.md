@@ -1,5 +1,7 @@
 # gaala-app
 
+[Trello](https://trello.com/b/eBaJUluA/gaala-app)
+
 ## Workflow
 
 1. Add user story to backlog
