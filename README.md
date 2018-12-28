@@ -1,6 +1,8 @@
 # gaala-app
 
 [Trello](https://trello.com/b/eBaJUluA/gaala-app)
+[Heroku](https://dashboard.heroku.com/apps/gaala-app)
+[App](http://gaala-app.herokuapp.com/)
 
 ## Workflow
 
